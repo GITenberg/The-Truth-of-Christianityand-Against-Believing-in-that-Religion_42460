@@ -1,0 +1,28 @@
+_repo: The-Truth-of-Christianityand-Against-Believing-in-that-Religion_42460
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42460-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Turton, W. H. (William Harry)
+    alias: Turton, William Harry
+    birthdate: 1856
+    deathdate: 1938
+    gutenberg_agent_id: '41699'
+    url: http://www.gutenberg.org/2009/agents/41699
+description: ''
+gutenberg_issued: '2013-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Apologetics'
+title: "The Truth of Christianity\r\nBeing an Examination of the More Important Arguments\
+  \ For and Against Believing in That Religion"
+url: http://www.gutenberg.org/ebooks/42460
