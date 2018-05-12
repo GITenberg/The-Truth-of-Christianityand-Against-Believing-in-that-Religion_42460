@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41699'
     url: http://www.gutenberg.org/2009/agents/41699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42460#The-Truth-of-Christianityand-Against-Believing-in-that-Religion
 gutenberg_issued: '2013-04-02'
 gutenberg_type: Text
 identifiers:
